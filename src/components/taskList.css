@@ -1,0 +1,19 @@
+.container{
+    background-color: #fff;
+    width: max-content;
+    min-width: 300px;
+    height: max-content;
+    min-height: 300px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding: 20px;
+    margin-top: 30%;
+}
+
+.task_list{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
